@@ -1,6 +1,6 @@
 <?php
-    $target_md5 = "f9983b9debe62b66d0582089300c4572";
-    $flag = 'skill54{md5_1s_s0_fun_bh169n4169w}';
+    $target_md5 = "1766f4625c683b0e92b2a3c3ac0ee1e9";
+    $flag = 'skills54{md5_1s_s0_fun_bh169n4169w}';
 
     $message = "";
 
@@ -109,3 +109,4 @@
 </body>
 
 </html>
+

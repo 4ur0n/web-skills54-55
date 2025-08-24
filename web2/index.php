@@ -88,6 +88,7 @@ if ($requestUri === '/index.php/login' && $method === 'POST') {
         </div>
         <button class="btn" onclick="login()">Login</button>
         <h4>try guest/guest?</h4>
+        <!-- index.php~ -->
         <div id="result"></div>
     </div>
 

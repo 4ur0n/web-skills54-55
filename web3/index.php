@@ -94,7 +94,7 @@
 <body>
     <div class="login-container">
         <h2>Password checker</h2>
-        <h4>target: 02255c0319bc1d27ba7bd8eec86304a0</h4>
+        <h4>target: 1766f4625c683b0e92b2a3c3ac0ee1e9</h4>
         <h4>password==md5(password)</h4>
         <form method="post">
             <label for="password">Password</label>
@@ -109,4 +109,5 @@
 </body>
 
 </html>
+
 
